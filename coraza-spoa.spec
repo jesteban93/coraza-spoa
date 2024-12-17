@@ -1,5 +1,5 @@
 Name:           coraza-spoa
-Version:        0.1-experimental
+Version:        0.1
 Release:        1%{?dist}
 Summary:        System daemon which brings the Coraza WAF as a backing service for HAProxy.
 
