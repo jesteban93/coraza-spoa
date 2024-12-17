@@ -1,3 +1,5 @@
+%global debug_package %{nil}
+
 Name:           coraza-spoa
 Version:        0.1
 Release:        1%{?dist}
