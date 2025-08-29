@@ -10,7 +10,6 @@ URL:            https://github.com/corazawaf/coraza-spoa
 Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  golang
-Requires:       libc.so.6
 
 %description
 Coraza SPOA is a system daemon which brings the Coraza Web Application Firewall (WAF) as a backing service for HAProxy
